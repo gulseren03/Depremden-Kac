@@ -97,3 +97,7 @@ Tüm eşyalar toplandığında oyuncu görevi başarıyla tamamlar.
 **Tel No** : +90 538 230 19 21
 
 **E Posta** : [gulseren20051979@gmail.com](gulseren20051979@gmail.com)
+
+## 📹 Youtube Video
+
+Youtube proje videosunu izlemek için [Tıklayın](https://youtu.be/be93zn-n8ME).
